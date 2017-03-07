@@ -1,0 +1,22 @@
+{
+  "name": "Start Bootstrap - Freelancer",
+  "version": "1.0.0",
+  "description": "Start Bootstrap - Freelancer (forked from BlackrockDigital)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Blackrock Digital.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://startbootstrap.com/template-overviews/freelancer/"
+  },
+  "homepage": "https://startbootstrap.com/template-overviews/freelancer/"
+}
